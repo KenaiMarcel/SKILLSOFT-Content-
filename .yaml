@@ -1,0 +1,37 @@
+---
+created: 2025-04-15T19:18:42-07:00
+modified: 2025-04-15T19:51:32-07:00
+---
+
+# Loan Collateral
+
+![Image](./c33a79eea10e846b79e2ee0dab58be7e.png) Initiate https link:
+-NAME:
+https://www.coinmarketcap.com
+RUN Job(s): 
+Initiate BTC TRANSFERS 
+transaction Hash:
+Run:
+Output Transfers: PUBLIC_KEY_ ID
+BUILD BTC Wallet: PRIVATE_KEY_ID
+WALLET_CONTAINER_VALUE(S):
+- Name(s):
+ BTC_WALLET_VALUE: 5 BTC
+LOAD Deposit:
+ WALLET_CONTAINER_VALUE(S):
+to public Hash ID:
+- Name:
+BTC_PUBLIC_KEY_ID
+3A7VFRNvccGwh5GddtrHXyN7specFUG5AW
+Run job(s):
+- Name 
+PUBLIC_HASH_ID
+
+SHA_SIGNATURES:
+- Name:
+- Marcell D. WILLIAMS
+-SHA_VALUES:
+ SHA256:/z6OpAiG0UbwtVw/3G3lSTJ1DwcbvRPcyuEV4ahL1IU
+
+Block Confirmation(s):
+5
